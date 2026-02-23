@@ -28,5 +28,5 @@ int main(){
 
     sort(a.begin(),a.end());
 
-    cout<<go(0,p);
+    cout<<go(0,p)<<endl;
 }
